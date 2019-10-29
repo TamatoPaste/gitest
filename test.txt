@@ -1,3 +1,2 @@
 hello
 Good Bye!
-SVN is trash!
